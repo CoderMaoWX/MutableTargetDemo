@@ -6,7 +6,7 @@ App_Name="MutableTargetDemo"
 #打包环境有: Dev02, Test04, Release
 
 #打包环境
-Config_Name="Dev02"
+Config_Name=$1
 Dev02="Dev02"
 Test04="Test04"
 Release="Release"
